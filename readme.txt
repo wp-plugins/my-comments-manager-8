@@ -1,7 +1,7 @@
 === My Comments Manager ===
 Contributors: rtCamp, parshwa, rahul286
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9488824
-Tags: Comments, Comment, Multi Author, Plugins, Dashboard, Moderation, Admin
+Tags: Comments, Comment, multi Author, Plugins, Dashboard, Moderation, Admin
 Requires at least: WP 2.9
 Tested up to: WPMU 2.9.2
 Stable tag: 1.2
