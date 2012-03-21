@@ -3,9 +3,9 @@
 Plugin Name: My Comments Manager
 Plugin URI: http://wpveda.com/my-comments-manager-wordpress-plugin/
 Description: My Comments Manager is useful for multiauthor blogs where each author can manage comments posted on his/her articles. S/He can see all comments on one screen to which s/he hasn't replied. It also allows you to ignore the comments from your displayed comment list.
-Version: 1.0
-Author: Parshwa Nemi Jain
-Author URI: http://wpveda.com/
+Version: 1.3
+Author: rtCamp
+Author URI: http://rtcamp.com/
 
 */
 if (isset($_GET['ignore'])) {
